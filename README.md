@@ -6,7 +6,7 @@
 
 ## References and Resources
 
-N/A
+`Google` and `kotlinlang.org`
 
 ## Verbal Collaboration
 
